@@ -1,4 +1,4 @@
-[TOC]
+#### PLease note that this is the old Version of Metaphlan2 for Huttenhower Galaxy project update. To get the latest version, please direct to https://github.com/biobakery/MetaPhlAn
 
 # MetaPhlAn 2: Metagenomic Phylogenetic Analysis
 
